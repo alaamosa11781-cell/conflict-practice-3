@@ -6,6 +6,7 @@ ROSTER = [
     #{"name": "Cyborg Bob", "hp": 110, "attack": (5, 10), "phrase": "Beep boop!"},
     #{"name": "Deadline Student", "hp": 80, "attack": (10, 40), "phrase": "It works on my machine!"},
     {"name": "mosa", "hp": 105, "attack": (8, 18), "phrase": "Merge conflict? No problem!"},
+    {"name": "Eran the Resolver", "hp": 105, "attack": (7, 18), "phrase": "Conflict? Already merged."},
     # --- ADD HERE ---
 ]
 
